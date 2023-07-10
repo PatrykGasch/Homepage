@@ -1,0 +1,30 @@
+<html>
+<head>
+     <title> Jaki to Pokemon? </title>
+</head>
+<body>
+  <div>
+  <center> <h1><p style="color:blue;"> Zgadnij Pokemona
+     <table border="2"> 
+   <tr>
+      <td><input type="text" placeholder="Podpowiedź"></td>
+      <td><input type="text" placeholder="Podpowiedź"></td>
+   </tr>
+   </div>
+<center> <img src="KANTO.JPG"
+width="358,5" height="61"/>
+   <div>
+   <center> <table border="2">
+   <tr>
+   <th>Zostało zagadek</th>
+   <th>Dodatkowe zagadki</th>
+   </tr>
+   <tr>
+      <td><input type="text" placeholder="Koniec?"></td>
+      <td><input type="text" placeholder="+1 zagadka=CZAPKA"></td>
+   </tr>
+</table>
+   </div>
+      </p>
+</body>
+</html>
